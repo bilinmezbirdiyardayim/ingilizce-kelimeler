@@ -1,10 +1,25 @@
 {
-"success": true,
-"timestamp": 1656004563,
-"date": "23.02.2023",
-"easyWords": {
-"about":"aşağı yukarı, hakkında",
-"above":"üzerine, yukarısında",
-"across":"karşıya"
-}
+    "success": true,
+    "timestamp": 1656004563,
+    "date": "23.02.2023",
+    "easyWords": {
+        "about":"aşağı yukarı, hakkında",
+        "above":"üzerine, yukarısında",
+        "across":"karşıya"
+    },
+    "middleWords": {
+        "absolutely":"kesinlikle, mutlaka",
+        "academic":"akademik",
+        "access":"erişim"
+    },
+    "hardWords": {
+        "abolish":"feshetmek",
+        "abortion":"bebek aldırma, kürtaj",
+        "absence":"bulunmayış"
+    },
+    "sentence": {
+        "what's up":"naber",
+        "so so":"idare eder",
+        "how is it going":"nasıl gidiyor"
+    }
 }
